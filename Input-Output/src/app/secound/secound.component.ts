@@ -11,7 +11,7 @@ import { FirstComponent } from "../first/first.component";
 })
 export class SecoundComponent {
 
-  txt = "Hello Maqsudkhan"
+  txt = "Hello Maqsudkhan😎"
 
  items = ['item1', 'item2', 'item3', 'item4'];
 
